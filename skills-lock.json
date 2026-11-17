@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "skills": {
+    "add-icon": {
+      "source": "../../AppData/Local/Temp/fontawesome-agent-tools-main/fontawesome-agent-tools-main/plugins/icons/skills",
+      "sourceType": "local",
+      "computedHash": "44c5953959c2b6e1c604c646710af52e51b4d2d5460a00fcbaa5b28b59ea4164",
+      "installMode": "copy"
+    },
+    "fa-help": {
+      "source": "../../AppData/Local/Temp/fontawesome-agent-tools-main/fontawesome-agent-tools-main/plugins/icons/skills",
+      "sourceType": "local",
+      "computedHash": "b15cf3678404250dcc7f50076060e7411f8bbb2aec580f36147074950c38f353",
+      "installMode": "copy"
+    },
+    "setup-fa": {
+      "source": "../../AppData/Local/Temp/fontawesome-agent-tools-main/fontawesome-agent-tools-main/plugins/icons/skills",
+      "sourceType": "local",
+      "computedHash": "01dabe5acc7da09cab8c94a63f3d4dd7cc7a04e3420e18a3a3caab779a197253",
+      "installMode": "copy"
+    },
+    "suggest-icon": {
+      "source": "../../AppData/Local/Temp/fontawesome-agent-tools-main/fontawesome-agent-tools-main/plugins/icons/skills",
+      "sourceType": "local",
+      "computedHash": "782a7f42a722f139d6f11e1c67ea4f31b287385e3a6306e08d1fbc079f589856",
+      "installMode": "copy"
+    }
+  }
+}
