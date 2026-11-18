@@ -1,3 +1,4 @@
+import chibi from "./assets/chibi.png";
 
 function About() {
   return (
@@ -5,7 +6,7 @@ function About() {
     <div className="about_div">
       
     <div className="image_div">
-        <a href="/"><img src="src/assets/chibi.png" alt="Profile" /></a>
+        <a href="/"><img src={chibi} alt="Profile" /></a>
       </div>
       <div className="text_div">
         <h1>About Me</h1>

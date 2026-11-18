@@ -5,6 +5,7 @@ import viteLogo from './assets/vite.svg'
 import './App.css'
 import '@fortawesome/fontawesome-free/css/all.min.css';
 ``
+import profile from "./assets/profile.png";
 function Social_div(heading, description, link1, link2, link3) {
   return(
     <div className="projects_div">
@@ -54,7 +55,7 @@ function App() {
   return (
     <>
       <section id="center">
-         <img src = 'src/assets/profile.png' alt = 'profile picture' />
+         <img src = {profile} alt = 'profile picture' />
         <h1 className="welcome">
           {"Welcome to my website".split(" ").map((word, index) => (
             <span key={index} style={{ animationDelay: `${index * 0.4}s` }}>
